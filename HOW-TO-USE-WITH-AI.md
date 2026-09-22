@@ -11,7 +11,16 @@ Four ways to learn faster with AI tools, using the materials in this package. Se
 **Setup:**
 1. Go to [notebooklm.google.com](https://notebooklm.google.com) and sign in.
 2. Create a notebook named `PowerPoint Zero to Hero`.
-3. Upload sources in this order (click Add Source for each):
+
+**Simplest path: one link, no downloads (recommended).** Click **Add source > Website** and paste this single link. NotebookLM then holds the whole course at once: every module, quiz, cheat sheet, walkthrough, and answer key.
+
+```
+https://raw.githubusercontent.com/tempesteni/Microsoft-PowerPoint-Zero-to-hero/main/curriculum-full.md
+```
+
+That is it, you are ready to learn. (If a tool ever truncates such a large page, use the per-file path below.)
+
+3. Upload sources in this order (click Add Source for each, the manual path):
 
 | Order | File | Why |
 |-------|------|-----|

@@ -178,6 +178,14 @@ POWERPOINT Learn/
 
 **Step 2:** Click **"Create new notebook"** and name it `PowerPoint Zero to Hero`.
 
+**Want one link instead of many uploads?** Add this single **Website** source and NotebookLM gets the entire course (every module, quiz, cheat sheet, walkthrough, and answer key):
+
+```
+https://raw.githubusercontent.com/tempesteni/Microsoft-PowerPoint-Zero-to-hero/main/curriculum-full.md
+```
+
+(Built by `make_curriculum_full.py`. If a tool truncates very large pages, fall back to the per-file list below.)
+
 **Step 3:** Upload your sources in this order:
 
 | Upload Order | File | Why This Order |
@@ -532,4 +540,4 @@ Created by **[tempesteni](https://github.com/tempesteni)** with **[Hermes Agent]
 | tempesteni | Concept and curriculum direction, scope decisions, review, corrections, quality control, publishing decisions |
 | Hermes Agent | Research and compilation, module authoring, quiz/flashcard/cheat sheet generation, sample deck generation, animation XML engineering, URL verification, content and security verification, documentation |
 
-**Stats:** 54 files | ~100,000 words | 8 modules + 6 capstone projects | 7 sample decks | 9 quizzes | 120 flashcards | 5 study tracks | estimated study time 40-120 hours depending on track | prerequisites: basic computer literacy, access to PowerPoint (2019, 2021, or Microsoft 365) for practice.
+**Stats:** 56 files | ~100,000 words | 8 modules + 6 capstone projects | 7 sample decks | 9 quizzes | 120 flashcards | 5 study tracks | estimated study time 40-120 hours depending on track | prerequisites: basic computer literacy, access to PowerPoint (2019, 2021, or Microsoft 365) for practice.
