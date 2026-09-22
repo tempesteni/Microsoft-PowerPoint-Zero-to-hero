@@ -1,0 +1,4 @@
+# QA byproducts, not course content
+sample-decks/render/
+__pycache__/
+*.pyc

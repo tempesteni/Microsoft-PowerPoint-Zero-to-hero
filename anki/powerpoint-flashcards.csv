@@ -1,0 +1,121 @@
+Front,Back,Category
+"What is the default file format for a modern PowerPoint presentation?",pptx (Presentation Open XML). Older binary format is pptx's predecessor ppt, and macro-enabled decks are saved as pptm.,fundamentals
+"What keyboard shortcut inserts a new slide?",Ctrl+M inserts a new slide below the current one in Normal view.,fundamentals
+"What is the fastest way to duplicate a slide?",Select the slide thumbnail and press Ctrl+D (or right-click > Duplicate Slide).,fundamentals
+"What is the difference between F5 and Shift+F5?",F5 starts the slide show from the first slide. Shift+F5 starts it from the currently selected slide.,fundamentals
+"How do you exit a running slide show?",Press Esc. The slide show also ends after the last slide unless Loop mode is on.,fundamentals
+"What is Normal view used for?",It is the main editing view with the slide pane, thumbnail rail, and Notes pane, used to build and edit individual slides.,fundamentals
+"What is Slide Sorter view?",A grid of slide thumbnails for reordering, deleting, or applying transitions to many slides at once.,fundamentals
+"What is Reading View?",It plays the slide show in the window with simple controls, useful for reviewing a deck without going full screen.,fundamentals
+"What is a placeholder?",An empty container on a slide layout (title, text, picture, chart) that prompts you to click and add content.,fundamentals
+"What are slide layouts?",Predefined arrangements of placeholders in the slide master (Title Slide, Title and Content, Two Content) that keep slides consistent.,fundamentals
+"What are Sections and what are they for?",Named groups in the thumbnail rail that organize large decks, collapse for navigation, and can be collapsed or reordered as a block.,fundamentals
+"How do you promote or demote a bullet level in the Outline pane?",Place the cursor in the line and press Tab to demote (deeper level) or Shift+Tab to promote (move up a level).,fundamentals
+"What do Ctrl+Z and Ctrl+Y do?",Ctrl+Z undoes the last action and Ctrl+Y redoes it or repeats the last command.,fundamentals
+"How do you save a deck as a PDF?",File > Save As (or Export) and choose PDF, or File > Export > Create PDF/XPS Document.,fundamentals
+"What is AutoSave and what does it require?",AutoSave saves changes continuously to OneDrive or SharePoint. It is disabled for files stored only on the local machine.,fundamentals
+"What is the Slide Master?",The top-level template that stores theme colors, fonts, background, and layouts for the whole presentation so global edits happen in one place.,design-foundations
+"How do you open the Slide Master?",View tab > Slide Master. Click Close Master View on the ribbon when finished.,design-foundations
+"What is the difference between a theme and a template?",A theme is a set of colors, fonts, and effects. A template is a theme plus saved content and layouts, saved with the potx extension.,design-foundations
+"What is the hierarchy of PowerPoint formatting?",Theme > Slide Master > individual Layouts > individual slides. Formatting set at a higher level flows down to everything below it.,design-foundations
+"Name the placeholder types managed in the master.",Title, body/text, date, footer, and slide number placeholders. Footer items are switched on via Insert > Header & Footer.,design-foundations
+"How do you apply a footer and slide numbers to every slide?",Insert > Header & Footer, check Footer and Slide number, type the footer text, then click Apply to All.,design-foundations
+"How do you change theme colors for the whole deck?",Design tab > Variants > Colors > Customize Colors, then edit accent and text colors and save as a custom color set.,design-foundations
+"How do you set a background for all slides?",Right-click a slide > Format Background (or Design > Format Background). Hide background graphics on one slide by checking Hide background graphics in Format Background.,design-foundations
+"What is the difference between the Notes Master and the Handout Master?",Notes Master controls printed speaker notes pages. Handout Master controls printed handouts with 1, 2, 3, 4, 6, or 9 slides per page.,design-foundations
+"Why edit the Slide Master instead of each slide?",One edit to the master updates every slide and layout at once, guarantees consistency, and prevents drift as the deck grows.,design-foundations
+"How do you save a custom template?",File > Save As and choose PowerPoint Template (potx). New presentations can then start from it via File > New > Personal.,design-foundations
+"What is a theme variant and where do you find it?",Design tab > Variants are coordinated color, font, and effect sets that restyle the whole deck in one click while keeping layouts intact. Use the dropdowns to customize each aspect.,design-foundations
+"What is the 6x6 rule?",No more than 6 bullets per slide and 6 words per bullet. It keeps slides scannable and stops the audience reading instead of listening.,visual-design
+"What is the difference between a typeface and a font?",A typeface is the design family (Arial). A font is a specific size and weight of that typeface (Arial Bold 24pt).,visual-design
+"Should slides use serif or sans-serif type?",Sans-serif (Arial, Calibri, Helvetica) reads better on screen at large sizes. Serif type is traditionally used for dense printed body text.,visual-design
+"What is the minimum recommended body text size on a slide?",24pt for body text and 36pt or larger for titles. If text must shrink below 24pt, cut content instead.,visual-design
+"How many typefaces should a deck use?",Two at most: one for headings and one for body text. Extra weights and sizes create variety without adding visual noise.,visual-design
+"What contrast ratio should slide text meet for readability?",WCAG AA requires 4.5:1 for normal text and 3:1 for large text. Dark text on a light background or its inverse beats low-contrast pairings.,visual-design
+"What are complementary colors?",Two colors opposite each other on the color wheel (blue and orange). They create strong contrast and work for emphasis.,visual-design
+"What are analogous colors?",Three neighboring colors on the color wheel (blue, blue-green, green). They feel harmonious and work for backgrounds and calm themes.,visual-design
+"What is the difference between RGB and CMYK?",RGB is additive light for screens (red, green, blue). CMYK is subtractive ink for print (cyan, magenta, yellow, key/black). Slides use RGB.,visual-design
+"What is the 60-30-10 color rule?",About 60% dominant neutral, 30% secondary color, and 10% accent for emphasis. The accent highlights only what matters most.,visual-design
+"What is visual hierarchy in slide design?",Arranging elements so the eye reads them in order of importance using size, weight, color, and position. The headline is always read first.,visual-design
+"Why does alignment matter in slide layout?",Aligned elements look intentional and professional. Use Align tools and smart guides (Alt-drag or View > Guides) rather than placing by eye.,visual-design
+"What is the principle of proximity?",Items that belong together should sit close together. Related bullets, titles, and captions group into clear visual units.,visual-design
+"What does consistency mean in a deck?",Same fonts, colors, spacing, logo position, and layout logic on every slide. Consistency signals professionalism and reduces mental load.,visual-design
+"What is white space and why is it valuable?",The empty area around and between elements. It separates groups, improves focus, and makes slides look premium rather than crammed.,visual-design
+"How does the Z-pattern apply to slides?",The eye scans a slide left to right and top to bottom in a rough Z. Place the title top-left, key content in the middle, and the takeaway or logo at the bottom.,visual-design
+"How do you keep color choices colorblind-friendly?",Never rely on red versus green alone to show meaning. Add labels, patterns, or position cues so meaning survives without color.,visual-design
+"How do you match a color already used in the deck?",Shape Fill (or Text Fill) > Eyedropper, then click the target color on the slide to sample it exactly.,visual-design
+"How do you insert a table?",Insert > Table and drag to pick rows and columns, or use Insert > Table > Insert Table and type the exact numbers.,tables-charts
+"When should you use a table instead of a chart?",Use a table for exact values and lookups the audience must read. Use a chart when the audience should see a trend, comparison, or proportion at a glance.,tables-charts
+"What is a column chart best for?",Comparing values across a few categories (quarterly revenue by region). Use a bar chart instead when category labels are long.,tables-charts
+"What is a line chart best for?",Showing change over continuous time (monthly signups across a year). Keep it to 4 or fewer series so lines stay readable.,tables-charts
+"What is the recommended maximum number of pie chart slices?",Five or fewer. Above that, switch to a bar chart because small slices are impossible to compare.,tables-charts
+"Why use a horizontal bar chart for long category names?",Horizontal bars give long labels room to read left to right without rotating text or cramming columns.,tables-charts
+"What is a scatter (XY) chart used for?",Plotting the relationship between two numeric variables (ad spend vs sales) to reveal correlation or outliers.,tables-charts
+"How do you merge cells in a table?",Select the cells and click Table Layout > Merge Cells (or right-click > Merge Cells).,tables-charts
+"How do you make table rows or columns equal in size?",Select them and use Table Layout > Distribute Rows or Distribute Columns.,tables-charts
+"How should a table header row look?",Bold or a contrasting fill so it separates from data, and repeat it across pages in printed handouts via Table Layout > Repeat Header Rows.,tables-charts
+"What is zebra striping in tables?",Alternating light row shading that helps the eye track across wide tables. Use subtle tints, not heavy borders.,tables-charts
+"What are chart elements in PowerPoint?",Title, axis titles, legend, data labels, gridlines, and trendlines. Add or remove them from Chart Design > Add Chart Element.,tables-charts
+"How do you edit the data behind a chart?",Chart Design > Edit Data opens the embedded worksheet (a trimmed Excel sheet). Type new values and the chart updates live.,tables-charts
+"What is chart junk and how do you remove it?",Unnecessary ink like heavy gridlines, 3D effects, and redundant labels. Delete gridlines and 3D styles so the data is the only ink left.,tables-charts
+"When should you use data labels instead of a value axis?",Use direct data labels on bars when you need exact values on a handful of points. Otherwise keep the axis and skip labels to reduce clutter.,tables-charts
+"How do you animate a chart piece by piece?",Add an entrance effect to the chart, then in Effect Options choose By Series or By Category (and By Element in Series if needed).,tables-charts
+"When is SmartArt a better choice than a chart?",SmartArt shows process, hierarchy, and relationships (cycles, org charts). Charts show numeric comparison and trends.,tables-charts
+"What do table styles control?",A preset combination of banding, header emphasis, and border treatment. Apply one from Table Design and turn Banded Rows on or off there.,tables-charts
+"What is the difference between a transition and an animation?",A transition plays when moving between slides. An animation plays on an object inside a single slide.,animations
+"Name the four animation effect types.",Entrance (object appears), Emphasis (object draws attention), Exit (object disappears), and Motion Path (object moves along a drawn path).,animations
+"What is the Animation Pane and how do you open it?",The sidebar that lists every effect in order with timing bars. Open it from Animations > Animation Pane.,animations
+"What are the three Start options for an animation?",On Click, With Previous (starts with the prior effect), and After Previous (starts when the prior effect finishes).,animations
+"What is a Trigger in PowerPoint animation?",An effect that starts only when you click a specific object or play a media bookmark, set under Trigger > On Click of.,animations
+"What is the difference between Duration and Delay?",Duration is how long the effect plays. Delay is how long it waits before starting, measured in seconds.,animations
+"What does the Morph transition do?",It animates objects between two slides by interpolating shared objects, creating smooth movement, resizing, and color shifts. Duplicate a slide, move or recolor an object, then apply Morph.,animations
+"How do you apply one transition to the whole deck?",Set the transition on one slide in the Transitions tab and click Apply To All.,animations
+"What is the Animation Painter?",In the Animations tab, it copies all animation effects from one object to another, like Format Painter for animations. Double-click it to paint multiple objects.,animations
+"What do Effect Options control?",The variant of a chosen effect, such as direction (From Bottom), sequence (By Series for charts), or sound.,animations
+"How do you make a slide advance without clicking?",Transitions tab > Timing > Advance Slide: uncheck On Mouse Click and check After, then set the time in seconds.,animations
+"What is Rehearse Timings?",Slide Show > Rehearse Timings runs the deck with a stopwatch so PowerPoint records how long you spend on each slide and can auto-advance with those timings.,animations
+"How do you set transition direction and sound?",Transitions tab > Effect Options picks the direction. The Sound dropdown adds a sound, which should normally stay (No Sound) for business decks.,animations
+"Why avoid flashy transitions in a business deck?",Spin, Boomerang, and similar effects distract from content and can look unprofessional. Stick to Fade or Morph and apply them consistently.,animations
+"What is a motion path animation?",An effect that moves an object along a preset or custom drawn line or curve. Edit the path by dragging its points in the Animation Pane.,animations
+"What is the rule of thumb for animation use?",Animate only to reveal content in the order you will speak about it. If an effect does not help the explanation, delete it.,animations
+"How do you insert a video?",Insert > Video > This Device (local file) or Online Video (YouTube or embed code). Recommended formats are MP4 with H.264 video and AAC audio.,media-interactivity
+"What are the video playback start options?",Video Playback > Start: In Click Sequence, Automatically, or When Clicked On. Automatically is best for unattended kiosk shows.,media-interactivity
+"How do you trim a video in PowerPoint?",Select the video, then Video Playback > Trim Video. Set Start and End points and click OK. The original file is unchanged.,media-interactivity
+"What is a poster frame?",A still image shown on the video before playback starts, set from Video Format > Poster Frame > Image from File.,media-interactivity
+"How do you insert audio on a slide?",Insert > Audio > Audio on My PC or Record Audio. A speaker icon appears and playback is controlled from the Audio Playback tab.,media-interactivity
+"How do you make audio play across multiple slides?",Select the audio icon, then Audio Playback > Start > Automatically and check Play in Background, which loops and plays across slides until stopped.,media-interactivity
+"How do you trim audio?",Select the audio icon and choose Audio Playback > Trim Audio, then set the start and end points.,media-interactivity
+"How do you record the screen in PowerPoint?",Insert > Screen Recording, drag to select the area (or use Select All), choose whether to record audio and pointer, and click Record. Press Win+Shift+Q to stop.,media-interactivity
+"What is the difference between Screenshot and Screen Clipping?",Insert > Screenshot captures a whole open window. Screen Clipping at the bottom of that gallery lets you drag-select part of the screen.,media-interactivity
+"How do you create a hyperlink?",Select text or an object and press Ctrl+K (or Insert > Link), then choose a web page, another slide, a file, or an email address.,media-interactivity
+"What are Action buttons and Action Settings?",Shape > Action Buttons provides arrow and home icons that run an action on click or mouseover, such as jumping to a slide, a URL, or running a macro.,media-interactivity
+"What is PowerPoint Zoom?",Insert > Zoom offers Slide Zoom (jump to one slide), Section Zoom (jump to a section), and Summary Zoom (a live menu of sections you can return from).,media-interactivity
+"How do you shrink a deck with heavy media?",File > Info > Compress Media to downsample videos and audio to Standard, HD, or Full HD quality before sharing the file.,media-interactivity
+"How do you export a deck as a video?",File > Export > Create a Video, pick resolution (1080p is typical), choose whether to use recorded timings, and click Create Video to produce an MP4.,media-interactivity
+"What is Presenter View and what does it require?",The speaker-facing screen showing current slide, next slide, notes, and a timer. It requires two displays (or Alt+F5 to preview it on one).,delivery-accessibility
+"How do you turn the mouse into a laser pointer during a show?",Hold Ctrl and drag the mouse, or press Ctrl+L to toggle the laser pointer. Press Ctrl+A to switch back to the arrow.,delivery-accessibility
+"What do the B and W keys do during a slide show?",B shows a black screen and W shows a white screen. Any keypress or click returns to the slide, useful for discussion.,delivery-accessibility
+"How do you jump directly to a specific slide during a show?",Type the slide number and press Enter. Press Enter alone to jump to the first slide.,delivery-accessibility
+"How do you see all slides during a running slide show?",Press S (or Ctrl+S) to open the All Slides thumbnail view, then click any slide to jump to it.,delivery-accessibility
+"What is a Custom Slide Show?",Slide Show > Custom Slide Show > Custom Shows lets you define named subsets of slides from one deck for different audiences without duplicating the file.,delivery-accessibility
+"What does the Accessibility Checker look for and where is it?",Review > Accessibility Checker flags missing alt text, low-contrast text, unclear hyperlink text, and reading order problems in the Accessibility pane.,delivery-accessibility
+"What is alt text and why does it matter?",A short description of a picture, shape, or chart read aloud by screen readers. Add it in the alt text pane (right-click > Edit Alt Text) so visuals are not skipped.,delivery-accessibility
+"How do you fix the reading order of a slide?",Open Home > Arrange > Selection Pane and reorder items; screen readers and Tab navigation read objects from the bottom of the list to the top.,delivery-accessibility
+"How do you print speaker notes or handouts?",File > Print, then under Settings choose Notes Pages (one slide plus notes) or Handouts with 1 to 9 slides per page, then print or export to Word.,delivery-accessibility
+"How do you share a deck so formatting stays intact?",Save to OneDrive and share a view link, or File > Export > Create PDF/XPS when the audience only needs to read. Send the pptx only when they must edit.,delivery-accessibility
+"What accessibility basics should every slide meet?",Readable font size (24pt+), 4.5:1 contrast, alt text on images, meaningful hyperlink text (not "click here"), and logical reading order.,delivery-accessibility
+"What is VBA in PowerPoint?",Visual Basic for Applications, the built-in programming language used to automate repetitive tasks and add custom interactivity to presentations.,vba
+"How do you open the VBA editor?",Press Alt+F11 (or enable the Developer tab and click Visual Basic). Alt+F11 toggles between the editor and PowerPoint.,vba
+"What file extension keeps macros?",pptm (macro-enabled presentation). Saving as pptx silently strips the macros.,vba
+"What is the basic structure of a VBA macro?",Sub MacroName() ... End Sub. A macro is a Sub procedure that you run to perform its steps.,vba
+"What does MsgBox do in VBA?",Displays a dialog with a message, for example MsgBox "Done" or MsgBox ActivePresentation.Slides.Count to show the slide count.,vba
+"How do you enable the Developer tab?",File > Options > Customize Ribbon and check Developer in the right-hand list, then click OK.,vba
+"How do you set macro security?",Developer > Macro Security chooses Disable with notification (default, prompts to enable signed or trusted macros) or other levels. Only enable macros from sources you trust.,vba
+"How do you run a macro?",Press Alt+F8, select the macro name, and click Run (or assign it to a shape action or button).,vba
+"How do you add a new slide with VBA?",ActivePresentation.Slides.Add Index:=ActivePresentation.Slides.Count + 1, Layout:=ppLayoutText adds a Title and Content slide at the end.,vba
+"How do you step through VBA code line by line to debug?",Press F8 in the editor to step one line at a time and watch values in the Locals window. F5 runs to the next breakpoint or end.,vba
+"What is the one-idea-per-slide rule?",Each slide makes exactly one point, stated in the headline. Supporting evidence stays on that slide and everything else moves to a new slide or the appendix.,design-principles
+"What is the picture superiority effect?",People remember images far better than words. Pairs of a simple picture and a short phrase beat walls of text for recall.,design-principles
+"What is cognitive load theory in slide design?",Working memory is limited, so slides must remove extraneous load (clutter, animation, tiny text) and let the audience absorb one idea at a time.,design-principles
+"What is the rule of thirds for slide composition?",Divide the slide into a 3x3 grid and place the title along the top third and the focal element at an intersection, rather than dead center.,design-principles
+"What is the data-ink ratio?",The share of ink that shows actual data. Raise it by deleting decorative chart ink so every mark carries information.,design-principles
