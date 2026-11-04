@@ -60,6 +60,12 @@
 **Constraints:** 5-7 minute talk; notes are prompts, not scripts; run the Accessibility Checker and fix everything it reports.
 **Success criteria:** timings recorded and reasonable (no slide longer than 90 seconds); alt text on every image; export a PDF that still looks right.
 
+### Optional rehearsal for Brief 9 (10 min)
+
+Share the slide-show window with a colleague. After one slide advance and one switch back to the slide show, ask the colleague to name the detail you indicated. Say its label aloud if the cue was unclear, then repeat the check.
+
+Use the free [Hybrid Pointing Rehearsal Record](https://light-tracer.com/wp-content/uploads/2026/10/hybrid-pointing-rehearsal-record-open-v1.pdf) (PDF, CC BY 4.0) or jot down what they saw and what you changed. The check passes when they can identify the intended detail and see the slide show without your speaker notes.
+
 ## Brief 10: The Template Factory (Advanced+, 120 min)
 
 **Request:** build a branded .potx template system for a fictional brand (YourCompany Inc): slide master with logo and footer, 4 custom layouts (title, section header, content, closing), theme colors and fonts, then build 3 slides from it proving it works.
